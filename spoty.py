@@ -1,5 +1,5 @@
 playlist = {"title": "Patagonia Bus",
- 	"author": "Colt Steele",
+ 	"author": "Marius Toader",
  	"songs": [
  		{"title": "song1", "artist": ["blue"], "duration": 2.35},
  		{"title": "song2", "artist": ["kitty", "dj kat"], "duration": 2.55},
